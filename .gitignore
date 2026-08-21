@@ -1,3 +1,4 @@
 *
 !.gitignore
 !/opencode.jsonc
+!/tui.jsonc
