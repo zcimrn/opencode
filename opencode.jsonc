@@ -7,7 +7,9 @@
         "openai": {
             "whitelist": [
                 "gpt-6-astra",
+                "gpt-6-astra-fast",
                 "gpt-6-luna",
+                "gpt-6-luna-fast",
             ],
         },
     },
